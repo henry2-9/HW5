@@ -1,0 +1,7 @@
+﻿D:\下載\VS studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(498,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+D:\下載\VS studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  6.36.c
+  6.37.c
+  正在產生程式碼...
+C:\Users\hongy\OneDrive\桌面\HW5\vscode\source\6.36.c(15): warning C4716: 'm9': 必須傳回值
+  hw5.vcxproj -> C:\Users\hongy\OneDrive\桌面\HW5\vscode\temp\debug\hw5.exe
